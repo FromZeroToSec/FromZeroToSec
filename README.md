@@ -31,6 +31,6 @@ ISC2 CC	🔜 2026
 📡 Me suivre
 ![X](https://img.shields.io/badge/X-FromZeroToSec-000000?style=for-the-badge&logo=x&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FromZeroToSec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehdi_Benabdelmoumene-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehdi_Benabdel?style=for-the-badge&logo=linkedin&logoColor=white)
 ---
 > *"Pas de bac, pas de problème. Juste du travail et de la persévérance."*
