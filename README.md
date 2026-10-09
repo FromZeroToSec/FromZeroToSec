@@ -1,34 +1,31 @@
-# Hey, je suis Mehdi 👋 | FromZeroToSec
+# Mehdi | FromZeroToSec
 
-```
-Hôtelier → DevSecOps | Juste du travail et de la persévérance.
-```
+Hôtelier en reconversion vers DevSecOps, puis AI Security. Je documente mon parcours ici : certifications, labs et projets.
 
-🎯 **Objectif** Reconversion complète vers la Cybersécurité / DevSecOps d'ici 2030.
+## Certifications obtenues
 
-✅ **Obtenues** : PCEP  · Google IT Support · Open Source Software Development, Linux and Git — Professional Certificate (Linux Foundation)
+- Microsoft Certified: Azure Administrator Associate (AZ-104), octobre 2026
+- PCEP, Python Institute
+- Google IT Support
+- Linux Foundation : Open Source Software Development, Linux and Git
 
-🔄 **En cours** : AZ-104 — Azure Administrator
+Détails et liens de vérification : [dépôt certification](https://github.com/FromZeroToSec/certification)
 
-## 🛠️ Stack en construction
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-## 📍 Roadmap 2025–2030
+## Roadmap 2025-2030
 
-```
-2025 ████░░░░░░  Python · Google IT Support · Linux Foundation
-2026 ██░░░░░░░░  AZ-104 · Technicien OC · Security+ · Docker
-2027 ░░░░░░░░░░  Adminsys OC · AZ-500 · Kubernetes
-2028 ░░░░░░░░░░  Master Cyber · OSCP
-2030 ░░░░░░░░░░  Expert DevSecOps 🎯
-```
+| Période | Objectif |
+|---|---|
+| 2026-2027 | Security+, HTB Academy (CJCA, COAE), Docker, GitHub Actions, diplôme Bac+2 |
+| 2027-2028 | HTB CPTS, AZ-400, Terraform, Kubernetes (CKA, CKS), RHCSA, diplôme Bac+3/4 |
+| 2028-2030 | AI Security (SecAI+, CAISP), AWS, Master Bac+5, DevSecOps Expert |
 
-## 📡 Me suivre
+## Me suivre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-benabdel/)
-
-*"Juste du travail et de la persévérance."*
+[LinkedIn](https://www.linkedin.com/in/mehdi-benabdel)
